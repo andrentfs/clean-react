@@ -3,8 +3,8 @@
     "target": "es5",
     "lib": [
       "dom",
-      "DOM.Iterable",
-      "ESNext"
+      "dom.Iterable",
+      "esnext"
     ],
     "esModuleInterop": true,
     "module": "esnext",
@@ -15,10 +15,9 @@
     "allowJs": true,
     "skipLibCheck": true,
     "allowSyntheticDefaultImports": true,
-    "forceConsistentCasingInFileNames": true,
     "strict": true,
+    "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
-    "isolatedModules": true,
     "noEmit": true
   },
   "include": [
