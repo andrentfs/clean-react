@@ -9,7 +9,7 @@
     "test:staged": "npm test -- --findRelatedTests",
     "test:ci": "npm test -- --coverage"
   },
-  "keywords": [],
+  "keywords": ["react", "clear-architecture"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
