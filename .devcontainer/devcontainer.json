@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 	"name": "React Clean",
+=======
+	"name": "Clear REACT - 2",
+>>>>>>> 87eef6d729cba72b765335ed5a51d9dda853eb1a
 	"build": {
 		"dockerfile": "Dockerfile",
 		// Update 'VARIANT' to pick a Node version: 10, 12, 14
